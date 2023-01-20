@@ -16,7 +16,6 @@ public class MainSort {
             startProgram(args);
         } catch (IndexOutOfBoundsException e) {
             System.out.println("set all the necessary data and restart the program");
-            String a = "a";
         }
     }
 
